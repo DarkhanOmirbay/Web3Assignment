@@ -1,4 +1,5 @@
  Title: using web3,metamask,BNBTestnet,Remix ide and VS stutdio code
+ and I made little web page for checking progress(used html,js,express for start server)
 1. 
 Install web3 lib:
 ![image](https://github.com/DarkhanOmirbay/Web3Assignment/assets/147340364/153b4ed1-6054-4d6c-a19b-4d5e25ffb25d)
